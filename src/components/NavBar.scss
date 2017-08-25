@@ -1,0 +1,20 @@
+$bg: #4c566c;
+
+.NavBar-logo {
+  height: 40px;
+  margin: 10px 40px;
+}
+
+.NavBar {
+  background-color: $bg;
+  display: flex;
+  height: 60px;
+}
+
+.NavBar-header {
+  position: absolute!important;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+}

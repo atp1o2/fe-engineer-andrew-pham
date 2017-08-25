@@ -1,0 +1,18 @@
+.panel-group {
+  margin-bottom: 0 !important;
+}
+
+.panel {
+  border-radius: 0 !important;
+}
+
+.panel-heading {
+  background-color: #FFFFFF !important;
+  margin-bottom: 0 !important;
+  padding: 10px 0 !important;
+}
+
+.panel-body {
+  padding: 0 0 0 18px !important;
+  background: lightgray;
+}
